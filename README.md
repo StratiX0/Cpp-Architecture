@@ -1,6 +1,6 @@
 # Cpp Architecture
  
-Projet d'une semaine afin d'apprendre les bases de l'architecture en C++ à l'aide d'une pré-existante.
+Projet d'une semaine afin d'apprendre les bases de l'architecture en C++ à l'aide d'une architecture pré-existante.
 
 ## Authors
 
